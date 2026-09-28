@@ -12,9 +12,14 @@ kanban-plugin: board
 ## Módulo 1- Las redes en la actualidad
 
 - [ ] [[01|1.0 Introducción]]
+- [ ] ![[Cisco Networking Academy Course Launch.mp4]]
 	- [[02|exploracion de modo fisico y logico]]
-	- [[03]]
+		- modo logico![[Pasted image 20260922194753.png]] 
+		- modo fisico
+		![[Pasted image 20260922194904.png]]
 - [ ] [[01 Módulo 1- Las redes en la actualidad/1.1 Las redes afectan nuestras vidas/Sin título|1.1 Las redes afectan nuestras vidas]]
+![[Cisco Networking Academy Course Launch (3).mp4]]
+
 - [ ] [[01 Módulo 1- Las redes en la actualidad/1.2 Componentes de la red/Sin título|1.2 Componentes de la red]]
 - [ ] [[01 Módulo 1- Las redes en la actualidad/1.3 Topologías y representaciones de red/Sin título|1.3 Topologías y representaciones de red]]
 - [ ] [[01 Módulo 1- Las redes en la actualidad/1.4 Tipos comunes de redes/Sin título|1.4 Tipos comunes de redes]]
